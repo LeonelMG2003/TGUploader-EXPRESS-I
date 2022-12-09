@@ -1,0 +1,19 @@
+﻿{
+  "name": "UwU Ultimate Bot",
+  "description": "SuperDownload bot listo y preparado para subir a las nubes de cuba.",
+  "env": {
+    "administrador": {
+      "description": "Admin del bot sin el @",
+      "value": "LeonelMG"
+    },
+    "bot_token": {
+      "description": "El token del bot",
+      "value": "5517117553:AAEldAVnvNYsp5mkRW6op1dZ8gHPDiFdZsg"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}

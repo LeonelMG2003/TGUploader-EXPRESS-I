@@ -1,0 +1,32 @@
+Bienvenido al tutorial del bot de subidas a nubes cubanas TGUploader en su versión Professional
+
+📢Notas de interés:
+🟡Para comenzar a subir necesitará una cuenta Moodle o Nextcloud, siendo los más populares:
+☁️https://moodlepost.reduc.edu.cu/
+☁️https://eduvirtual.uho.edu.cu/
+☁️http://eva.umcc.cu/posgrado/
+☁️https://moodle.reduc.edu.cu/
+☁️https://aulavirtual.uij.edu.cu/
+☁️https://moodle.cujae.edu.cu/
+☁️https://uvs.ucm.cmw.sld.cu/
+☁️http://moodle.ismm.edu.cu/
+☁️https://aula.ucm.grm.sld.cu/
+☁️http://www.ucmc.cfg.sld.cu/
+☁️https://evead.unah.edu.cu/
+☁️http://moodle.uclv.edu.cu/
+☁️https://aulauvs.gtm.sld.cu/
+☁️https://cursos.uo.edu.cu/
+☁️https://aulacened.uci.cu/
+☁️https://avucm.pri.sld.cu/
+☁️http://aula4.mtz.sld.cu/
+☁️https://eva.uo.edu.cu/
+☁️https://evea.uh.cu/
+👉Cabe resaltar que para utilizar algunas de estas nubes necesitará la activación de un proxy.
+
+🟡El bot detecta enlaces directos de varios servidores, entre ellos:
+https://www.youtube.com/
+https://pixeldrain.com/
+https://mediafire.com/
+https://youtube.com/
+👉El bot no detecta archivos de Telegram.
+👉También puede enviar los enlaces o archivos a un bot de https://t.me/bots_of_charles para renombrar, comprimir o generar enlaces de descarga más rápidos.
